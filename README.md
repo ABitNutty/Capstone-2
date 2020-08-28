@@ -13,6 +13,7 @@ Yelp_Reviews_Baseline_Model.ipnb - A jupyter notebook containing code related to
 Extended_Model.ipnb - A jupyter notebook containing code exploring the application of LDA algorithms. <br>
 Feature Importance Word Cloud.ipnb - A jupyter notebook containing code related to the creation of word clouds used in the report. <br>
 Yelp Final Report.pdf - A full report of methods used and results reached. <br>
+Yelp_Reviews_Bigrams_Investigation.ipynb - An investigation of using Bigrams in the vectorizing of the documents <br>
 Yelp_sentiment_slides.key - A slide deck meant for accompanying a presentation of findings. 
 
 
